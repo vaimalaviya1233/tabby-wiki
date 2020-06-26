@@ -11,6 +11,7 @@ When you have a tab selected...
 - `Delete` to close the tab
 - `M` to mute
 - `P` to pin
+- `S` to search
 - `▲` and `▼` arrows to select the tab above and below the selected one
 
 ## The old keyboard shortcuts have been changed
