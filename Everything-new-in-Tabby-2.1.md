@@ -7,12 +7,12 @@ When you are searching...
 - `Enter` to select the top result
 
 When you have a tab selected...
+- `▲` and `▼` arrows to select the tab above and below the selected one
 - `Enter` to go to the tab
 - `Delete` to close the tab
 - `M` to mute
 - `P` to pin
 - `S` to search
-- `▲` and `▼` arrows to select the tab above and below the selected one
 
 ## The old keyboard shortcuts have been changed
 
