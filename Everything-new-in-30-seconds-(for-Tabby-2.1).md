@@ -1,6 +1,6 @@
 ## Keyboard only navigation
 
-- `Ctrl+Shift+Enter` to open Tabby
+- `Ctrl+Shift+Space` to open Tabby
 - `Ctrl+Shift+X` to open Tabby selecting the current tab
 
 When you are searching...
