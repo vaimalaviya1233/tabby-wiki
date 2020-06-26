@@ -40,4 +40,4 @@ Have a Github account? Throw it on here!
 
 If not, feel free to throw it onto [https://goo.gl/forms/hdEdjHo6RPwYCiJC2](https://goo.gl/forms/hdEdjHo6RPwYCiJC2)
 
-Because I can't test every edge case myself, bug reports really help, so thanks.
+Because I can't test every edge case myself, bug reports really help, so thanks :)
