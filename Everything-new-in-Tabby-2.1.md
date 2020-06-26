@@ -1,3 +1,5 @@
+Quick note: you can always access this page from Tabby's Settings Page
+
 ## Keyboard only navigation
 
 - `Ctrl+Shift+Space` to open Tabby with the search bar selected
