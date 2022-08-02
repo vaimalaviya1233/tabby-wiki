@@ -10,7 +10,7 @@ Quick note: you can always access this page from Tabby's Settings Page
 
 ## Advanced search
 
-**Indexed search -** Tabby will search in wikis now. And articles.
+**Indexed search -** Tabby will search in wikis now. And articles. It's like Full-Text search but only `article` tags, `section` tags and stuff like that are considered.
 
 **Plus.. Regex support!**  `re:/abc/is`
 
