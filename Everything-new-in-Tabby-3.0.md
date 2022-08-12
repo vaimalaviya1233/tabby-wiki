@@ -44,6 +44,10 @@ Dark and classic themes, and custom themes!
 
 - Performance improvements
 
+## Minor versions history
+
+**3.0.1**  "Send Tab to..." context menu, Display window order on windows with custom names
+
 ## If you find any bugs
 
 If you have a GitHub account, start an issue here!
