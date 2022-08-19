@@ -14,7 +14,7 @@ Quick note: you can always access this page from Tabby's Settings Page
 
 **Plus.. Regex support!**  `re:/abc/is`
 
-Ah, and the search box won't be cleared when you close Tabby. Handy!
+Ah, and the search box won't be cleared when you close Tabby.
 
 ## Multiselect
 
