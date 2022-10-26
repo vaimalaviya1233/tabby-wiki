@@ -1,11 +1,3 @@
-It's been a while..
-
-But alas.
-
-Welcome back.
-
-# Everything new in Tabby 3.0
-
 Quick note: you can always access this page from Tabby's Settings Page
 
 ## Advanced search
